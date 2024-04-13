@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-class RecentCounter {
+class RecentCounter { 
     private Queue<Integer> requests;
 
     public RecentCounter() {
