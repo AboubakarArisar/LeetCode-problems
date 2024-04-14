@@ -2,7 +2,7 @@ class Solution {
     public int[] leftRightDifference(int[] nums) {
         int n = nums.length;
         int[] answer = new int[n];
-        
+         
         // Calculate the sum of elements to the left and store it in an array
         int[] leftSum = new int[n];
         leftSum[0] = 0;
