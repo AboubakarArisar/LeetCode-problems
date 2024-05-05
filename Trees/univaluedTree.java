@@ -12,7 +12,7 @@
  *         this.right = right;
  *     }
  * }
- */
+ */ 
 class Solution {
     public boolean isUnivalTree(TreeNode root) {
         if (root == null) {
